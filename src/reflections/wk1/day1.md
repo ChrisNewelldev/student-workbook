@@ -8,4 +8,4 @@ We use git to keep track of our changes in code
 -What are the benefits of having multiple branches?
 
 -What is the difference between Git and GitHub
-Git is 
+Git is a version control system that tracks changes to individual files, whereas GitHub is a server that holds our repositories.
