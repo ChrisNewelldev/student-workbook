@@ -5,7 +5,7 @@ Afternoon project: Partner clone site w/ Sam
 https://github.com/SamanthaBullington/John-deere-group/blob/master/index.html
 https://github.com/SamanthaBullington/John-deere-group/blob/master/style.css
 
--What is the purpose of wire-framing?
+-What is the purpose of wire-framing? 
 
 Wire-framing is used at the start of a project to keep the concept user-focused and to clarify to the whole team what website features are expected.
 

@@ -4,7 +4,7 @@ Afternoon project: https://github.com/ChrisNewelldev/coolsite/blob/master/index.
 
 https://github.com/ChrisNewelldev/coolsite/blob/master/style.css
 
--What is a Pseudo-Class and what are some of the most common ones you think you will use
+-What is a Pseudo-Class and what are some of the most common ones you think you will use 
 A Pseudo-Class is used to make an element do something special when it's being interacted with, :hover is a good example to change the color of a button or something similar.
 
 -What is Specificity and how might you use it to your benefit?

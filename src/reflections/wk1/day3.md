@@ -2,7 +2,7 @@ Day 3 journal
 
 Afternoon project: Smiley site from udemy, not linked due to issues pushing to github
 
--What is your favorite tip that you think is the most beneficial to improving your design?
+-What is your favorite tip that you think is the most beneficial to improving your design? 
 
 Avoiding true black.  I've never heard of that before but the link included in the reading explained it well.
 
