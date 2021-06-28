@@ -1,6 +1,9 @@
 Day 3 journal
 
-Afternoon project: Smiley site from udemy, not linked due to issues pushing to github
+Afternoon project: Smiley site from udemy
+https://github.com/ChrisNewelldev/ChrisNewelldev-student-workbook-tree-main-src-reflections-wk1/blob/main/afternoonprojects/smiley/index.html
+
+https://github.com/ChrisNewelldev/ChrisNewelldev-student-workbook-tree-main-src-reflections-wk1/blob/main/afternoonprojects/smiley/style.css
 
 -What is your favorite tip that you think is the most beneficial to improving your design? 
 
