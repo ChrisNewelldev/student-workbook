@@ -1,3 +1,6 @@
+Afternoon challenge: https://github.com/ChrisNewelldev/ChrisNewelldev-student-workbook-tree-main-src-reflections-wk1/tree/main/rockpaperscissors
+
+
 -What are the main ways to write information to the console? Why/when should you use each style.
 
 -Which tab allows you to see the breakdown of HTML/CSS and how can this tab be useful when debugging HTML?
