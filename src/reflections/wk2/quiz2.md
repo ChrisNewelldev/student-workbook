@@ -3,17 +3,21 @@
 **1.** Which keywords are used to declare a variable in JavaScript?
 <!-- enter you answer in the space below -->
 ```
-
+var let and const
 ```
 **2.** What is the definition of a function?
 <!-- enter you answer in the space below -->
 ```
-
+a subprogram designed to perform a given task
 ```
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+Single responsibility
+Open/closed
+Liskov Substitution
+Interface segregation
+Dependency inversion
 ```
 **4.** Given this array: 
 ```js
