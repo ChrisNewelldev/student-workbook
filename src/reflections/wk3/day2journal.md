@@ -1,3 +1,5 @@
+https://github.com/ChrisNewelldev/vendingmachine
+
 -What is the purpose of Encapsulation?
 
 it makes certain data private and you can only be accessed from within the object
